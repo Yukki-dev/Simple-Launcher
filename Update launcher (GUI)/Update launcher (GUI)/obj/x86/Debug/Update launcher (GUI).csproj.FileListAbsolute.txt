@@ -1,0 +1,19 @@
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\bin\x86\Debug\upd.exe.config
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\bin\x86\Debug\upd.exe
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\bin\x86\Debug\upd.pdb
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\obj\x86\Debug\Update launcher (GUI).csprojResolveAssemblyReference.cache
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\obj\x86\Debug\Update_launcher__GUI_.Form1.resources
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\obj\x86\Debug\Update_launcher__GUI_.Properties.Resources.resources
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\obj\x86\Debug\Update launcher (GUI).csproj.GenerateResource.Cache
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\obj\x86\Debug\upd.exe
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\obj\x86\Debug\upd.pdb
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\Update launcher (GUI)\Update launcher (GUI)\bin\x86\Debug\upd.exe.config
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\Update launcher (GUI)\Update launcher (GUI)\bin\x86\Debug\upd.exe
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\Update launcher (GUI)\Update launcher (GUI)\bin\x86\Debug\upd.pdb
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\Update launcher (GUI)\Update launcher (GUI)\obj\x86\Debug\Update launcher (GUI).csprojResolveAssemblyReference.cache
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\Update launcher (GUI)\Update launcher (GUI)\obj\x86\Debug\Update_launcher__GUI_.Form1.resources
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\Update launcher (GUI)\Update launcher (GUI)\obj\x86\Debug\Update_launcher__GUI_.Properties.Resources.resources
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\Update launcher (GUI)\Update launcher (GUI)\obj\x86\Debug\Update launcher (GUI).csproj.GenerateResource.Cache
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\Update launcher (GUI)\Update launcher (GUI)\obj\x86\Debug\Update launcher (GUI).csproj.CoreCompileInputs.cache
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\Update launcher (GUI)\Update launcher (GUI)\obj\x86\Debug\upd.exe
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\Update launcher (GUI)\Update launcher (GUI)\obj\x86\Debug\upd.pdb

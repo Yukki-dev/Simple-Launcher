@@ -1,0 +1,17 @@
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\LAUNCHER\Update launcher (GUI)\Update launcher (GUI)\obj\Debug\Update launcher (GUI).csprojResolveAssemblyReference.cache
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\LAUNCHER\Update launcher (GUI)\Update launcher (GUI)\obj\Debug\Update_launcher__GUI_.Form1.resources
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\LAUNCHER\Update launcher (GUI)\Update launcher (GUI)\obj\Debug\Update_launcher__GUI_.Properties.Resources.resources
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\LAUNCHER\Update launcher (GUI)\Update launcher (GUI)\obj\Debug\Update launcher (GUI).csproj.GenerateResource.Cache
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\LAUNCHER\Update launcher (GUI)\Update launcher (GUI)\bin\Debug\upd.exe
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\LAUNCHER\Update launcher (GUI)\Update launcher (GUI)\bin\Debug\upd.pdb
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\LAUNCHER\Update launcher (GUI)\Update launcher (GUI)\obj\Debug\upd.exe
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\LAUNCHER\Update launcher (GUI)\Update launcher (GUI)\obj\Debug\upd.pdb
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\obj\Debug\upd.exe
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\obj\Debug\upd.pdb
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\bin\Debug\upd.exe
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\bin\Debug\upd.pdb
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\obj\Debug\Update launcher (GUI).csprojResolveAssemblyReference.cache
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\obj\Debug\Update_launcher__GUI_.Form1.resources
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\obj\Debug\Update_launcher__GUI_.Properties.Resources.resources
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\obj\Debug\Update launcher (GUI).csproj.GenerateResource.Cache
+D:\ALL_FILES\PROGRAMMS\WRITE PROGRAMM (SAMOPISKI)\---CORSAIRS---\Update launcher (GUI)\Update launcher (GUI)\bin\Debug\upd.exe.config

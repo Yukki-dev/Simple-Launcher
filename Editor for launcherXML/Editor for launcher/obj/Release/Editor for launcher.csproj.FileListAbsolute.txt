@@ -1,0 +1,8 @@
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\bin\Release\Editor for launcher.exe.config
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\bin\Release\Editor for launcher.exe
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\bin\Release\Editor for launcher.pdb
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\obj\Release\Editor_for_launcher.Form1.resources
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\obj\Release\Editor_for_launcher.Properties.Resources.resources
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\obj\Release\Editor for launcher.csproj.GenerateResource.Cache
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\obj\Release\Editor for launcher.exe
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\obj\Release\Editor for launcher.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<launcher>
+  <Install>
+    <InstallVersion>alpha 0.1</InstallVersion>
+  </Install>
+  <Update>
+    <Updateversion>v. 2.0</Updateversion>
+    <launcherversion>1.0</launcherversion>
+  </Update>
+</launcher>

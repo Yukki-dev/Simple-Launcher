@@ -1,0 +1,9 @@
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\bin\x86\Debug\Editor for launcher.exe.config
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\bin\x86\Debug\Editor for launcher.exe
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\bin\x86\Debug\Editor for launcher.pdb
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\obj\x86\Debug\Editor for launcher.csprojResolveAssemblyReference.cache
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\obj\x86\Debug\Editor_for_launcher.MainWindow.resources
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\obj\x86\Debug\Editor_for_launcher.Properties.Resources.resources
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\obj\x86\Debug\Editor for launcher.csproj.GenerateResource.Cache
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\obj\x86\Debug\Editor for launcher.exe
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\obj\x86\Debug\Editor for launcher.pdb

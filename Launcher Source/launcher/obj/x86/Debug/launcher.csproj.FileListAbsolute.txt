@@ -1,0 +1,27 @@
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\launcher\launcher\bin\x86\Debug\launcher.exe
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\launcher\launcher\bin\x86\Debug\launcher.pdb
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\launcher\launcher\bin\x86\Debug\SevenZipSharp.dll
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\launcher\launcher\obj\x86\Debug\launcher.Main.resources
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\launcher\launcher\obj\x86\Debug\launcher.Properties.Resources.resources
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\launcher\launcher\obj\x86\Debug\launcher.csproj.GenerateResource.Cache
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\launcher\launcher\obj\x86\Debug\launcher.exe
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\launcher\launcher\obj\x86\Debug\launcher.pdb
+D:\SkyStorage\YandexDisk\Open Source\launcher\launcher\bin\x86\Debug\launcher.exe
+D:\SkyStorage\YandexDisk\Open Source\launcher\launcher\bin\x86\Debug\launcher.pdb
+D:\SkyStorage\YandexDisk\Open Source\launcher\launcher\bin\x86\Debug\SevenZipSharp.dll
+D:\SkyStorage\YandexDisk\Open Source\launcher\launcher\obj\x86\Debug\launcher.csprojResolveAssemblyReference.cache
+D:\SkyStorage\YandexDisk\Open Source\launcher\launcher\obj\x86\Debug\launcher.Main.resources
+D:\SkyStorage\YandexDisk\Open Source\launcher\launcher\obj\x86\Debug\launcher.Properties.Resources.resources
+D:\SkyStorage\YandexDisk\Open Source\launcher\launcher\obj\x86\Debug\launcher.csproj.GenerateResource.Cache
+D:\SkyStorage\YandexDisk\Open Source\launcher\launcher\obj\x86\Debug\launcher.exe
+D:\SkyStorage\YandexDisk\Open Source\launcher\launcher\obj\x86\Debug\launcher.pdb
+D:\SkyStorage\YandexDisk\Open Source\launcher\launcher\obj\x86\Debug\launcher.DllLoad.resources
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\launcher\launcher\bin\x86\Debug\launcher.exe
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\launcher\launcher\bin\x86\Debug\launcher.pdb
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\launcher\launcher\obj\x86\Debug\launcher.DllLoad.resources
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\launcher\launcher\obj\x86\Debug\launcher.Main.resources
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\launcher\launcher\obj\x86\Debug\launcher.Properties.Resources.resources
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\launcher\launcher\obj\x86\Debug\launcher.csproj.GenerateResource.Cache
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\launcher\launcher\obj\x86\Debug\launcher.csproj.CoreCompileInputs.cache
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\launcher\launcher\obj\x86\Debug\launcher.exe
+D:\SYSTEM\Cloud Storage\YandexDisk\Open Source\launcher\launcher\obj\x86\Debug\launcher.pdb

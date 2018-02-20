@@ -1,0 +1,29 @@
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcher\Editor for launcher\bin\Debug\Editor for launcher.exe.config
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcher\Editor for launcher\bin\Debug\Editor for launcher.exe
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcher\Editor for launcher\bin\Debug\Editor for launcher.pdb
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcher\Editor for launcher\obj\Debug\Editor_for_launcher.Form1.resources
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcher\Editor for launcher\obj\Debug\Editor_for_launcher.Properties.Resources.resources
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcher\Editor for launcher\obj\Debug\Editor for launcher.csproj.GenerateResource.Cache
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcher\Editor for launcher\obj\Debug\Editor for launcher.exe
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcher\Editor for launcher\obj\Debug\Editor for launcher.pdb
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\bin\Debug\Editor for launcher.exe.config
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\obj\Debug\Editor for launcher.exe
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\obj\Debug\Editor for launcher.pdb
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\bin\Debug\Editor for launcher.exe
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\bin\Debug\Editor for launcher.pdb
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\obj\Debug\Editor for launcher.csprojResolveAssemblyReference.cache
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\obj\Debug\Editor_for_launcher.Form1.resources
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\obj\Debug\Editor_for_launcher.Properties.Resources.resources
+D:\SYSTEM\Desktop\Предсказатор\Editor for launcherXML\Editor for launcher\obj\Debug\Editor for launcher.csproj.GenerateResource.Cache
+D:\ALL_FILES\PROGRAMMS\Разработка софта (самописки)\LAUNCHER\Editor for launcherXML\Editor for launcher\bin\Debug\Editor for launcher.exe.config
+D:\ALL_FILES\PROGRAMMS\Разработка софта (самописки)\LAUNCHER\Editor for launcherXML\Editor for launcher\obj\Debug\Editor for launcher.exe
+D:\ALL_FILES\PROGRAMMS\Разработка софта (самописки)\LAUNCHER\Editor for launcherXML\Editor for launcher\obj\Debug\Editor for launcher.pdb
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\bin\Debug\Editor for launcher.exe.config
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\bin\Debug\Editor for launcher.exe
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\bin\Debug\Editor for launcher.pdb
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\obj\Debug\Editor for launcher.csprojResolveAssemblyReference.cache
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\obj\Debug\Editor_for_launcher.Properties.Resources.resources
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\obj\Debug\Editor for launcher.csproj.GenerateResource.Cache
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\obj\Debug\Editor for launcher.exe
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\obj\Debug\Editor for launcher.pdb
+D:\ALL_FILES\WRITE PROGRAMM (SAMOPISKI)\C# balovstvo\Editor for launcherXML\Editor for launcher\obj\Debug\Editor_for_launcher.MainWindow.resources
